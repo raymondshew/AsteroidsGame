@@ -353,7 +353,7 @@ class Star
   {
   fill(0,100,200);
     rect(x, y, 10, 10);
-  }
+      }
 }
 
 class Asteroids extends Floater
